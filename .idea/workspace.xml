@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd80179-4c48-4dfe-b0c2-6d4528a1a1df" name="Changes" comment="Модуль 2 Дз 2">
-      <change afterPath="$PROJECT_DIR$/.idea/Moduie2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1dd80179-4c48-4dfe-b0c2-6d4528a1a1df" name="Changes" comment="Модуль 2">
       <change afterPath="$PROJECT_DIR$/Homework_2-1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Homework_2-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Moduie2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +50,12 @@
     &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/Moduie2&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/Module2&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="Homework_2-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Moduie2" />
+      <module name="Module2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715636867300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Модуль 2">
+      <option name="closed" value="true" />
+      <created>1717251680078</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717251680078</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Модуль 2">
+      <option name="closed" value="true" />
+      <created>1717252098955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717252098955</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +139,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Модуль 2 Дз 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Модуль 2 Дз 2" />
+    <MESSAGE value="Модуль 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Модуль 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
